@@ -2,7 +2,6 @@
 # frozen_string_literal: true
 
 require 'json'
-require 'pry'
 require 'rest-client'
 require 'scraped'
 require 'scraperwiki'
